@@ -1,6 +1,16 @@
 # Easy-Unsubscribe-All-Youtube
-This is a script that unsubscribe all Youtube subscription. 
 
+If you have hundreds of subscriptions in Youtube, and you want to easily unsubcribe all of them, do the following: 
+
+## Open YouTube on your desktop and go to your Subscriptions page:
+https://www.youtube.com/feed/channels.
+
+## Open the Browser Console:
+
+On Chrome: Press Ctrl + Shift + J (Windows) or Cmd + Option + J (Mac).     
+On Firefox: Press Ctrl + Shift + K (Windows) or Cmd + Option + K (Mac).
+
+## Copy and Paste the Script Below into the console and press Enter:
 
 ```
 (async () => {
@@ -37,3 +47,12 @@ This is a script that unsubscribe all Youtube subscription.
     }
 })();
 ```
+
+The code will simulate the button click of the 'Unsubcribe' button:      
+<img width="209" alt="image" src="https://github.com/user-attachments/assets/38e8c157-791a-4ad3-b56c-9fb8697f10e7">
+
+
+# If error like following: 
+<img width="411" alt="image" src="https://github.com/user-attachments/assets/d179d9a5-cb22-4492-ac75-2b1af31b2e12">           
+     
+Just open incognitor mode in chrome or private window in Edge, login Youtube, and repeat above. 
