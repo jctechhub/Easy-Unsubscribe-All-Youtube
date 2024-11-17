@@ -1,4 +1,4 @@
-# Easy-Unsubscribe-All-Youtube
+# Youtube: Easily Unsubscribe All Subscriptions
 
 If you have hundreds of subscriptions in Youtube, and you want to easily unsubcribe all of them, do the following: 
 
